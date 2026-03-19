@@ -1,9 +1,5 @@
-function App() {
-  return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-3xl font-bold">Shoe Store FE is running</h1>
-    </div>
-  );
+// Routing is configured in main.tsx via createBrowserRouter.
+// This file is kept for future app-level configuration.
+export default function App() {
+  return null;
 }
-
-export default App
